@@ -1,0 +1,5 @@
+GPS Clock project, speaks to a UP501 GPS-module to fetch time and date, uses the ks0108 library to display this on a LCD.
+
+See License.txt for licence.
+
+Does require the ks0108 library(https://github.com/Coolbeer/KS0108-Library).
